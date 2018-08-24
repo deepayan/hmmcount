@@ -1,0 +1,12 @@
+Package: hmmcount
+Version: 0.1-1
+Date: 2018/08/24
+Title: Fitting Hidden Markov Models for Count Data
+Maintainer: Deepayan Sarkar <deepayan.sarkar@gmail.com>
+Author: Deepayan Sarkar
+Description: Tools to fit simple Hidden Markov Models for discrete
+	     parametric emisson distributions. Currently supports
+	     Poisson and Negative Binomial distributions.
+Depends: R (>= 3.0.0), lattice, latticeExtra
+Imports: grid
+License: GPL3

@@ -1,0 +1,12 @@
+
+export(hmm.family,
+       coverageHmm,
+       decode)
+
+export(copyNumberPlot)
+
+S3method(update, coverageHmm)
+S3method(rootogram, coverageHmm)
+S3method(barchart, coverageHmm)
+S3method(xyplot, coverageHmm)
+
