@@ -219,16 +219,8 @@ baumwelch.hmm <-
 }
 
 
-
-
-
 ## the rest of the code is for trying to do useful things with the
 ## tools defined above given one or more sequences
-
-
-
-
-
 
 
 coverageHmm <-
